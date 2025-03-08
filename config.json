@@ -1,0 +1,16 @@
+{
+    "use_proxies": true,
+    "max_concurrency": 3,
+    "retry_attempts": 3,
+    "delay_between_accounts": {
+      "min": 2.0,
+      "max": 5.0
+    },
+    "delay_between_tasks": {
+      "min": 1.5,
+      "max": 3.5
+    },
+    "log_to_file": true,
+    "log_level": "INFO",
+    "run_interval_hours": 24
+  }
