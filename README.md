@@ -1,4 +1,4 @@
-# Walme Bot Enhanced
+# Walme Bot
 
 一个自动化的任务管理系统，用于处理 Walme 平台的日常任务和签到。
 
