@@ -15,7 +15,7 @@
 
 ```
 git clone https://github.com/pig2048/walme.git
-cd walme-bot-enhanced
+cd walme
 ```
 
 2. 配置虚拟环境(推荐):
